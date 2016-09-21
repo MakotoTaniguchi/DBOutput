@@ -1,3 +1,5 @@
+※新卒時代に作成した物になります
+
 【概要】
 ・インストールしないSQLServerManagementStudio
 
